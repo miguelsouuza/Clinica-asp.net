@@ -1,0 +1,194 @@
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.csproj.AssemblyReference.cache
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.csproj.CoreCompileInputs.cache
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\ClinicaWeb.dll.config
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\ClinicaWeb.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\ClinicaWeb.pdb
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\csc.exe
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\csc.exe.config
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\csc.rsp
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\csi.exe
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\csi.exe.config
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\csi.rsp
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.AppContext.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Console.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\vbc.exe
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\vbc.exe.config
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\vbc.rsp
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\Antlr3.Runtime.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\MySql.Data.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\Newtonsoft.Json.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.Helpers.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.Mvc.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.Optimization.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.Razor.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\WebGrease.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\Google.Protobuf.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\ZstdNet.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\BouncyCastle.Crypto.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\Ubiety.Dns.Core.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Memory.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Buffers.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\K4os.Compression.LZ4.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\K4os.Hash.xxHash.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\MySql.Data.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.Helpers.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.Mvc.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.Optimization.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.Razor.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\Newtonsoft.Json.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\Antlr3.Runtime.pdb
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.csproj.CopyComplete
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.dll
+C:\Users\3dsmod\Documents\Miguel 3DS\ASP\Aula2\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.pdb
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\ClinicaWeb.dll.config
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\ClinicaWeb.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\ClinicaWeb.pdb
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\csc.exe
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\csc.exe.config
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\csc.rsp
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\csi.exe
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\csi.exe.config
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\csi.rsp
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.AppContext.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Collections.Immutable.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Console.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Globalization.Calendars.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.IO.Compression.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.IO.FileSystem.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Net.Http.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Net.Sockets.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Reflection.Metadata.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.ValueTuple.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Xml.XPath.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\vbc.exe
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\vbc.exe.config
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\vbc.rsp
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\VBCSCompiler.exe
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\roslyn\VBCSCompiler.exe.config
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\Antlr3.Runtime.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\Microsoft.Web.Infrastructure.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\MySql.Data.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\Newtonsoft.Json.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.Helpers.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.Mvc.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.Optimization.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.Razor.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.Deployment.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.Razor.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\WebGrease.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\Google.Protobuf.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\ZstdNet.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\K4os.Compression.LZ4.Streams.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\BouncyCastle.Crypto.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\Ubiety.Dns.Core.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Memory.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Buffers.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\K4os.Compression.LZ4.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\K4os.Hash.xxHash.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\MySql.Data.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.Helpers.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.Mvc.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.Optimization.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.Razor.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.Deployment.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\System.Web.WebPages.Razor.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\Newtonsoft.Json.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\Antlr3.Runtime.pdb
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.Helpers.resources.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.Mvc.resources.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.Optimization.resources.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.Razor.resources.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.WebPages.resources.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.csproj.AssemblyReference.cache
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.csproj.CoreCompileInputs.cache
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.csproj.CopyComplete
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.dll
+T:\3 MODULAR\MIGUEL SOUZA SILVA\ASP\Clinica\ClinicaWeb\ClinicaWeb\obj\Debug\ClinicaWeb.pdb

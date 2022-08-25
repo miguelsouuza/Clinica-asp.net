@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Consultar";
+}
+
+<h2>Consultar Dados</h2>
+
+@Html.ActionLink("Voltar", "index", "Administracao")
+
+@using (Html.BeginForm("ConsultarAtend", "Administracao", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <label>Codigo do Medico</label>
+    <br />
+    <input type="text" id="txtNmCod" name="txtNmCod" />
+    <br />
+    <br />
+    <input type="submit" value="Pesquisar" />
+    <br />
+}
+
+
+@Html.Raw(ViewBag.GridViewString)

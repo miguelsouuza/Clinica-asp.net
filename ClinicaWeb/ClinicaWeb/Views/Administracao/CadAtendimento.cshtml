@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+<h2>Cadastrar Dados</h2>
+
+
+@using (Html.BeginForm("CadAtendimento", "Administracao", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <label>Data</label>
+    <br />
+    <input type="text" id="txtData" name="txtData" />
+    <br />
+    <label>Diagnostico</label>
+    <br />
+    <input type="text" id="txtDiagnostico" name="txtDiagnostico" />
+    <br />
+    <br />
+    @Html.DropDownList("medico", "Escolha o Medico")
+    <br />
+    <br />
+    @Html.DropDownList("paciente", "Escolha o Paciente")
+    <br />
+    <br />
+    <input type="submit" value="Cadastrar" />
+    <br />
+    @ViewBag.Messagem
+}
