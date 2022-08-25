@@ -8,7 +8,7 @@ namespace ClinicaWeb.Banco
 {
     public class Conexao
     {
-        MySqlConnection cn = new MySqlConnection("Server=localhost; DataBase=dbClinica; User=root;pwd=12345678");
+        MySqlConnection cn = new MySqlConnection("Server=localhost; DataBase=dbClinica; User=root;pwd=@Miguel68644794");
         public static string msg;
 
         public MySqlConnection MyConectarBD() //Método: MyConectarBD()

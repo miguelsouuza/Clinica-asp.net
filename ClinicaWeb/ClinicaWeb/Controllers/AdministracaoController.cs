@@ -92,7 +92,7 @@ namespace ClinicaWeb.Controllers
         {
             List<SelectListItem> medico = new List<SelectListItem>();
 
-            using (MySqlConnection con = new MySqlConnection("Server=localhost;DataBase=dbClinica;User=root;pwd=12345678"))
+            using (MySqlConnection con = new MySqlConnection("Server=localhost;DataBase=dbClinica;User=root;pwd=@Miguel68644794"))
             {
                 con.Open();
                 MySqlCommand cmd = new MySqlCommand("select * from tbMedico", con);
@@ -215,7 +215,7 @@ namespace ClinicaWeb.Controllers
         {
             List<SelectListItem> paciente = new List<SelectListItem>();
 
-            using (MySqlConnection con = new MySqlConnection("Server=localhost;DataBase=dbClinica;User=root;pwd=12345678"))
+            using (MySqlConnection con = new MySqlConnection("Server=localhost;DataBase=dbClinica;User=root;pwd=@Miguel68644794"))
             {
                 con.Open();
                 MySqlCommand cmd = new MySqlCommand("select * from tbPaciente", con);
@@ -238,7 +238,7 @@ namespace ClinicaWeb.Controllers
         {
             List<SelectListItem> especialidade = new List<SelectListItem>();
 
-            using (MySqlConnection con = new MySqlConnection("Server=localhost;DataBase=dbClinica;User=root;pwd=12345678"))
+            using (MySqlConnection con = new MySqlConnection("Server=localhost;DataBase=dbClinica;User=root;pwd=@Miguel68644794"))
             {
                 con.Open();
                 MySqlCommand cmd = new MySqlCommand("select * from tbEspecialidade", con);
